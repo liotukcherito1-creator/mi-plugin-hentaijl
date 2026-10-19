@@ -1,0 +1,17 @@
+{
+  "name": "Mis Plugins Nuvio",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "hentaijl",
+      "name": "HentaiJL",
+      "description": "Contenido adulto desde HentaiJL.",
+      "version": "1.0.0",
+      "author": "liotukcherito1-creator",
+      "supportedTypes": ["tv"],
+      "filename": "providers/hentaijl.js",
+      "enabled": true,
+      "contentLanguage": ["es"]
+    }
+  ]
+}
